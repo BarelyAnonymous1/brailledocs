@@ -1,4 +1,4 @@
-tester file
+test file
 I'm testing this file for correction information
 I want to see the changes that may have occurred
 and see if I can compare against a master
